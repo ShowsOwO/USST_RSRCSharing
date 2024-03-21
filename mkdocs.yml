@@ -1,7 +1,7 @@
-site_name: USST_RSRCSharing
+﻿site_name: USST_RSRCSharing
 
 theme:
-  name: material
+  name: "material"
   features:
   - navigation.footer
   - navigation.sections
@@ -22,9 +22,10 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
+
 nav:
-- Course:
-  - Math(A): Course/Math(A).md
+- 课程指南:
+  - 高等数学A: 课程指南/高等数学A.md
 
 repo_url: https://github.com/ShowsOwO/USST_RSRCSharing
 repo_name: USST_RSRCSharing

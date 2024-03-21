@@ -1,6 +1,9 @@
-# Welcome to USST_RSRCSharing!!!
+﻿<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# 欢迎来到上海理工大学资源共享项目！
+
+> 声明：本项目为纯非盈利项目，不接受任何推广及打赏，如果您在本项目中发现了侵犯版权的行为，请通过下方联系方式联系我们删除相关内容。  
+> 本项目仅作为学习及相关资料共享平台。
 
 ## Commands
 
