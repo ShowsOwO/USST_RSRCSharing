@@ -1,4 +1,4 @@
-﻿site_name: USST_RSRCSharing
+﻿site_name: USST_eresource
 
 theme:
   name: "material"
@@ -25,7 +25,11 @@ theme:
 
 nav:
 - 课程指南:
+  - 大学物理: 课程指南/大学物理.md
   - 高等数学A: 课程指南/高等数学A.md
+  - 普通化学: 课程指南/普通化学.md
+- 生活指南:
+  - 周边设施: 生活指南/周边设施.md
 
 repo_url: https://github.com/ShowsOwO/USST_RSRCSharing
 repo_name: USST_RSRCSharing
