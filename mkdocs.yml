@@ -18,7 +18,7 @@ theme:
     primary: indigo
     accent: indigo
   language: zh
-  logo: assets/openlib-logo.png
+  logo: assets/logo.png
   icon:
     repo: fontawesome/brands/github
 
